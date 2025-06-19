@@ -125,9 +125,7 @@ Feel free to check [issues page](https://github.com/your-username/data-vetting-a
 
 **Nagendran Shetty**
 
-Connect with me on [LinkedIn](www.linkedin.com/in/nagendran-shetty-b77b941a3
-
-) or check my portfolio for more work.
+Connect with me on [LinkedIn](www.linkedin.com/in/nagendran-shetty-b77b941a3).
 
 ```
 
