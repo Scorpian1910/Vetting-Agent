@@ -1,8 +1,3 @@
-Here's a comprehensive `README.md` file for your **Data Vetting Agent** application, which includes project description, setup instructions, features, and more — suitable for GitHub:
-
----
-
-````markdown
 # 🛡️ Data Vetting Agent
 
 A powerful React-based tool for vetting and validating CSV-based scraped data using [Serper API](https://serper.dev). This application helps in assessing the reliability and relevance of content by matching it against Google's search results using the Serper Search API.
@@ -94,15 +89,11 @@ Each row will be validated and classified accordingly.
 
 ### Dashboard
 
-> ![Displays count of approved, rejected, and pending data](https://raw.githubusercontent.com/Scorpian1910/)
-
-### Data Viewer
-
-> ![Click any row to open a detailed review pane with status, validation messages, and issues.](https://raw.githubusercontent.com/Scorpian1910/)
+> ![Displays count of approved, rejected, and pending data](https://github.com/Scorpian1910/Vetting-Agent/blob/main/project/public/assets/VettingAgentImag1.png?raw=true)
 
 ### Full Table View
 
-> ![Easily export or manage all data with action buttons.](https://raw.githubusercontent.com/Scorpian1910/)
+> ![Easily export or manage all data with action buttons.](https://github.com/Scorpian1910/Vetting-Agent/blob/main/project/public/assets/VettingAgentImag2.png?raw=true)
 
 ---
 
