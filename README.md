@@ -89,7 +89,7 @@ Each row will be validated and classified accordingly.
 
 ### Dashboard
 
-> ![Displays count of approved, rejected, and pending data](https://github.com/Scorpian1910/Vetting-Agent/blob/main/project/public/assets/VettingAgentImag1.png?raw=true)
+> ![Displays count of approved, rejected, and pending data](https://github.com/Scorpian1910/Vetting-Agent/blob/main/project/public/assets/VettingAgentImg1.png?raw=true)
 
 ### Full Table View
 
